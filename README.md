@@ -15,14 +15,22 @@
 ## 📂 پروژه‌ها
 
 ### 🧮 Calculator App
+
 ### 🎓 Student System
+
 ### 📁 Area
+
 ### 🔰 Base
-###➕ Sum Numbers 
-###💥 Special Numbers
-###⚜ Prime
-###➰ Fizz Buzz
-###⭐ Final Project
+
+### ➕ Sum Numbers 
+
+### 💥 Special Numbers
+
+### ⚜ Prime
+
+### ➰ Fizz Buzz
+
+### ⭐ Final Project
 
 ---
 
@@ -38,4 +46,5 @@
 
 ## 📫 ارتباط
 اگر خواستی همکاری کنی یا سوال داشتی:
-- Email: yourmail@example.com
+- Email: yazdaniaryan88@gmail.com
+- Telegram: t.me/Aryansft
